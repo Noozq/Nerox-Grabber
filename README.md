@@ -10,13 +10,8 @@
 <img alt="Discord" src="https://img.shields.io/discord/1002250543030341662?style=for-the-bagde&logo=discord&logoColor=Withe&link=https%3A%2F%2Fdiscord.gg%2Fenzj9xudyP">
 <h3>
 <h1 align='center'>🛠️ SPRACHE UND TOOLS 🛠️</h1>
-<h3>
+<h3 align = 'center'>
 <img src='image.png'>
-  * Browser Infos
-  * Wifi
-  * Discord infos
-  * Hardware infos
-  - CPU,GPU,IP
 </h3>
 
 <h3 align='center'>
