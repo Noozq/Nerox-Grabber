@@ -34,7 +34,7 @@ erstelle Nitro Codes.txt
 ```
 * Run datei:
 ```
-starte nitrogen.py
+starte main.py
 ```
 
 <h1 align='center'>🔮 UPDATES / LOGS 🔮</h1>
