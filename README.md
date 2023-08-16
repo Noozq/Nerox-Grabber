@@ -2,7 +2,7 @@
 
 </h1>
 <h3 align='center'>
-⭐️ NITRO GENERATOR ⭐️
+⭐️ NEROX GRABBER ⭐️
 </h3>
 
 
