@@ -12,6 +12,11 @@
 <h1 align='center'>🛠️ SPRACHE UND TOOLS 🛠️</h1>
 <h3>
 <img src='image.png'>
+  * Browser Infos
+  * Wifi
+  * Discord infos
+  * Hardware infos
+  - CPU,GPU,IP
 </h3>
 
 <h3 align='center'>
