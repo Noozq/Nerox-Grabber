@@ -21,7 +21,7 @@
 
 
 <h1 align='center'>📥 DOWNLOAD 📥</h1>
-<h3 align='center'>1. Lade Sie Die Nitro-Generator als zip herunter.</h3>
+<h3 align='center'>1. Lade Sie Die Nerox-Grabber als zip herunter.</h3>
 <h3 align='center'>2. Enpacken Sie Die zip datei.</h3>
 
 * Extensions Installieren:
